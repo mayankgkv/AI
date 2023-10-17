@@ -1,0 +1,9 @@
+Lab 1:
+It is used to predict the risk of loan. You can check the prediction by taking risk as parameter. Service used is Watson Studio, Cloud Storage, Watson ML. 
+Choose Cloud Object Storage
+Then Watson Studio
+Start with as per display
+Remember to associate ML services when asked
+Make No time series , as data is not time series
+Before run the experiment you can change in experiment settings by choosing different algos (max 4 allowed)
+We can predict on Risk / or any factor we want.
